@@ -4,3 +4,4 @@ node_modules/
 dist/
 .vscode/
 sturdy-ranger-448813-f4-1c14f840b401.json
+.vercel
